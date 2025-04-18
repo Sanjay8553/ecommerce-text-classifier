@@ -19,8 +19,7 @@ The solution includes a **command-line interface (CLI)** script, a **FastAPI RES
 - **Command-line prediction script**
 - **REST API using FastAPI**
 - **ngrok integration for public testing**
-- **Deployment-ready structure**
-- **Well-organized Git commits + screenshots**
+
 
 ---
 
